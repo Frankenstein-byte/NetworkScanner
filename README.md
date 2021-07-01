@@ -25,7 +25,7 @@ Network scanning is used to recognize available network services, discover and r
  
  ## Stealth Scan concept 
  
- **Normal TCP Scan**
+ **Normal TCP Scan(3-Way Handshake)**
  
  <img src=https://github.com/Frankenstein-byte/NetworkScanner/blob/master/Pictures/1.jpg>
  
