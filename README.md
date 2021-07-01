@@ -11,6 +11,7 @@ Network scanning is used to recognize available network services, discover and r
 * Regular Scan (ICMP Echo)
 * OS Detection
 * Ping Scan (ICMP Sweep)
+* Multiple IP inputs
 
 ## Installation of dependencies
 
